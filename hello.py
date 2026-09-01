@@ -1,0 +1,1 @@
+print("Hello, Oo-oo aa-aa")
