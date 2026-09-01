@@ -1,1 +1,1 @@
-print("Hello, Oo-oo aa-aa")
+print("Hello, ook-ook!")
